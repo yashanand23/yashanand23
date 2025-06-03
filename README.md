@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashanand23](https://github.com/yashanand23)
 
-- 💬 Ask me about *Data Science, Software Engineering*
+- 💬 Ask me about *Data Engineering, Data Science, Software Engineering*
 
 - 📫 How to reach me *yashanand.anand@gmail.com*
 
